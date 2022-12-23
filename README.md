@@ -1,7 +1,5 @@
 # VBA-challenge  
 
-Repo contains the following:  
-  ♦ Excel file without the solve being ran  
-  ♦ Excel file with the solve executed  
+Repo contains the following:   
   ♦ Screenshots from each year  
-  ♦ Seperate file containing the VB Script  
+  ♦ File containing the VB Script  
